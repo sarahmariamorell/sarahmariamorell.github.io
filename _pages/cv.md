@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv/
 title: CV
-nav: true
+nav: false # back to true as soon as CV is ready to be published
 nav_order: 5
 cv_pdf: /assets/pdf/CV_in_LaTeX.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
