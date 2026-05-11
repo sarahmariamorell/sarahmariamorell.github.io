@@ -6,7 +6,7 @@ instructor: Sarah Morell
 year: 2026
 term: Spring
 location: MZH 1450
-time: Wednesdays, 14:15 -- 15:45
+time: Wednesdays, 14:15 - 15:45
 course_id: 03-IBFW-MEHE
 ---
 
