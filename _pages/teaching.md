@@ -2,10 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description: Course materials, schedules, and resources for classes taught.
 nav: true
 nav_order: 4
-calendar: true
+calendar: false
 ---
+
+{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
 {% include courses.liquid %}
