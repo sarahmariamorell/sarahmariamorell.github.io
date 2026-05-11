@@ -9,8 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    #<p>University of Bremen</p>
-    <p>Bibliothekstr. 5</p>
+    <p>University of Bremen</p>
+
+    <p>Bibliothekstraße 5</p>
+    
     <p>28359 Bremen</p>
     
 
