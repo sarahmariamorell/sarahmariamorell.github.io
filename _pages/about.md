@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.uni-bremen.de/en/cslog/team/dr-sarah-morell'>Researcher at University of Bremen</a>.
+subtitle: <a href='https://www.uni-bremen.de/en/cslog/team/dr-sarah-morell'>Researcher</a> at University of Bremen, Germany.
 
 profile:
   align: right
@@ -14,7 +14,7 @@ profile:
     <p>28359 Bremen</p>
 
     <p>Office: MZH 3230</p>
-    <p>POffice Hours: By appointment</p>
+    <p>Office Hours: By appointment</p>
     
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
