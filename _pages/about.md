@@ -14,7 +14,7 @@ profile:
     <p>28359 Bremen</p>
 
     <p>Office: MZH 3230</p>
-    <p>POffice Hours: by appointment.</p>
+    <p>POffice Hours: By appointment</p>
     
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -38,7 +38,3 @@ I received my PhD in the Mathematics department at Technische Universität Berli
 My research interest lies in Combinatorial Optimization. To date, I have mainly worked on network flow algorithms in various contexts. 
 
 Feel free to reach out if you’d like to discuss research or potential collaborations.
-
-# Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
