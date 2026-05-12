@@ -2,8 +2,9 @@ cv:
   name: Sarah Maria Morell
   label: (Senior) Researcher
   email: 
-  location: Bremen, Germany
+  location: University of Bremen, Germany
   image: ""
+  summary: Research in Combinatorial Optimization and graph algorithms, with a particular emphasis on network flows and approximation. 
 
   social_networks:
     - network: GitHub
@@ -73,8 +74,8 @@ cv:
     Skills:
       - name: Programming
         keywords:
-          - Python
-          - C/C++
+          - Python (working knowledge)
+          - C/C++ (basic knowledge)
 
       - name: Languages
         keywords:
