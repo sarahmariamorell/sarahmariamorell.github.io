@@ -11,6 +11,14 @@ cv:
 
   sections:
 
+    Research Interests:
+        keywords:
+          - Combinatorial Optimization
+          - Discrete Optimization
+          - Approximation Algorithms
+          - Network Flows
+          - Scheduling
+
     Academic Positions:
       - institution: University of Bremen, Germany
         location: 
@@ -57,51 +65,6 @@ cv:
         studyType: Abitur (Highschool Diploma)
         end_date: 2008-07
 
-    Publications:
-      - title: Unsplittable Transshipments
-        authors: S. Morell, S. Debgupta, M. Skutella
-        publisher: Proceedings of ICALP 2026
-        releaseDate: 2026
-
-      - title: Flow-based Problem Solving in Combinatorial Optimization
-        authors:
-          - Sarah Maria Morell
-        publisher: Technische Universität Berlin
-        releaseDate: 2025
-        summary: PhD Thesis
-
-      - title: The Submodular Santa Claus Problem
-        authors:
-          - Sarah Maria Morell
-          - E. Bamas
-          - L. Rohwedder
-        publisher: Proceedings of SODA 2025
-        releaseDate: 2025
-
-      - title: Single Source Unsplittable Flows with arc-wise lower and upper Bounds
-        authors:
-          - Sarah Maria Morell
-          - M. Skutella
-        publisher: Mathematical Programming
-        releaseDate: 2022
-        summary: Extended abstract in IPCO 2020
-
-      - title: Minimum-cost Integer Circulations in Given Homology Classes
-        authors:
-          - Sarah Maria Morell
-          - I. Seidel
-          - S. Weltge
-        publisher: Proceedings of SODA 2021
-        releaseDate: 2021
-
-      - title: Diversity Maximization in Doubling Metrics
-        authors:
-          - Sarah Maria Morell
-          - A. Cevallos
-          - F. Eisenbrand
-        publisher: Proceedings of ISAAC 2018
-        releaseDate: 2018
-
     Research Stays:
       - institution: Maastricht University
         location: Maastricht, Netherlands
@@ -126,11 +89,3 @@ cv:
           - German (native)
           - English (fluent)
           - French (fluent)
-
-      - name: Research Areas
-        keywords:
-          - Combinatorial Optimization
-          - Discrete Optimization
-          - Approximation Algorithms
-          - Flow Problems
-          - Scheduling
