@@ -59,10 +59,7 @@ cv:
 
     Publications:
       - title: Unsplittable Transshipments
-        authors:
-          - Sarah Maria Morell
-          - S. Debgupta
-          - M. Skutella
+        authors: S. Morell, S. Debgupta, M. Skutella
         publisher: Proceedings of ICALP 2026
         releaseDate: 2026
 
