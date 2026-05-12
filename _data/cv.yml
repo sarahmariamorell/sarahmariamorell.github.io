@@ -60,19 +60,6 @@ cv:
         studyType: Abitur (Highschool Diploma)
         end_date: 2008-07
 
-    Research Stays:
-      - institution: Maastricht University
-        location: Maastricht, Netherlands
-        start_date: 2023-02
-        end_date: 2023-03
-        host: Prof. Dr. Lars Rohwedder
-
-      - institution: Technical University Munich
-        location: Munich, Germany
-        start_date: 2020-03
-        end_date: 2020-04
-        host: Prof. Dr. Stefan Weltge
-
     Skills:
       - name: Programming
         keywords:
