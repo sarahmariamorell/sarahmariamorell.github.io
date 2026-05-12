@@ -4,7 +4,7 @@ title: Impressum & Datenschutz
 permalink: /impressum/
 ---
 
-### Impressum
+## Impressum
 
 Angaben gemäß § 5 TMG
 
@@ -38,7 +38,7 @@ Die Inhalte dieser Website wurden mit größter Sorgfalt erstellt. Für die Rich
 
 Diese Website enthält Links zu externen Websites Dritter, auf deren Inhalte kein Einfluss besteht. Für diese fremden Inhalte wird daher keine Gewähr übernommen.
 
-### Datenschutzerklärung
+## Datenschutzerklärung
 
 #### Verantwortliche Person
 
