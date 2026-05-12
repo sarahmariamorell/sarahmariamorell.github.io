@@ -34,7 +34,9 @@ cv:
         end_date: 2025-03
         thesis: "Flow-based Problem Solving in Combinatorial Optimization"
         supervisor: Prof. Dr. Martin Skutella
-        highlights: Research stays
+        highlights: 
+          - Research stay at Maastricht University (Netherlands), visiting Prof. Dr. Lars Rohwedder. Feb -- Mar 2023.
+          - Research stay at Technical University Munich (Germany), visiting Prof. Dr. Stefan Weltge. Mar -- Apr 2020.  
 
       - institution: École Polytechnique Fédérale de Lausanne (EPFL)
         location: Switzerland
