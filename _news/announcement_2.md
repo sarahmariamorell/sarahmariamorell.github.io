@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to join for the Follow-Up Workshop on Discrete Optimization at HIM in Bonn, Germany.
+Excited to attend the [Follow-Up Workshop](https://www.mathematics.uni-bonn.de/him/programs/follow-up-workshops/2026_04_20) on Discrete Optimization at HIM in Bonn, Germany.

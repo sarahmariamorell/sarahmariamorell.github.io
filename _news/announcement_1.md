@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to join for the Combinatorial Optimization Workshop in Aussois, France.
+Excited to attend the [Combinatorial Optimization Workshop](https://conference3.aau.at/event/142/overview) in Aussois, France.
