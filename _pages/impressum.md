@@ -16,7 +16,7 @@ E-Mail: sarahmaria.(Nachname)(at)gmail(dot)com
 
 ---
 
-### Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
+# Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 
 Sarah Maria Morell
 Boltenhagener Straße 22
@@ -24,19 +24,19 @@ Boltenhagener Straße 22
 
 ---
 
-### Haftung für Inhalte
+# Haftung für Inhalte
 
 Die Inhalte dieser Website wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte wird jedoch keine Gewähr übernommen.
 
 ---
 
-### Haftung für Links
+# Haftung für Links
 
 Diese Website enthält Links zu externen Websites Dritter, auf deren Inhalte kein Einfluss besteht. Für diese fremden Inhalte wird daher keine Gewähr übernommen.
 
-## Datenschutzerklärung
+### Datenschutzerklärung
 
-### Verantwortliche Person
+# Verantwortliche Person
 
 Sarah Maria Morell
 Boltenhagener Straße 22
@@ -46,7 +46,7 @@ E-Mail: sarahmaria.(Nachname)(at)gmail(dot)com
 
 ---
 
-### Hosting
+# Hosting
 
 Diese Website wird über GitHub Pages bereitgestellt.
 
@@ -63,7 +63,7 @@ https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-s
 
 ---
 
-### Externe Inhalte und Content Delivery Networks (CDNs)
+# Externe Inhalte und Content Delivery Networks (CDNs)
 
 Diese Website lädt technische Bibliotheken und Schriftarten über externe Anbieter. Beim Laden dieser Ressourcen kann Ihre IP-Adresse an die jeweiligen Anbieter übertragen werden.
 
@@ -71,7 +71,7 @@ Die Nutzung erfolgt im Interesse einer technisch sicheren und effizienten Bereit
 
 ---
 
-### Google Fonts
+# Google Fonts
 
 Diese Website verwendet Schriftarten von Google Fonts.
 
@@ -88,13 +88,13 @@ https://policies.google.com/privacy
 
 ---
 
-### Keine Analyse- oder Trackingtools
+# Keine Analyse- oder Trackingtools
 
 Auf dieser Website werden keine Analyse- oder Trackingdienste wie Google Analytics eingesetzt.
 
 ---
 
-### Ihre Rechte
+# Ihre Rechte
 
 Sie haben im Rahmen der DSGVO insbesondere folgende Rechte:
 
