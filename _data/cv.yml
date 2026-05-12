@@ -21,13 +21,11 @@ cv:
 
     Academic Positions:
       - institution: University of Bremen, Germany
-        location: 
         position: Researcher (with tenure track to Senior Researcher)
         start_date: 2025-10
         end_date: present
 
       - institution: University of Bremen, Germany
-        location: 
         position: Postdoctoral Researcher
         start_date: 2025-04
         end_date: 2025-09
@@ -35,7 +33,6 @@ cv:
 
     Education:
       - institution: Technische Universität Berlin, Germany
-        location: 
         area: Mathematics
         studyType: PhD
         start_date: 2018-09
@@ -44,7 +41,6 @@ cv:
         supervisor: Prof. Dr. Martin Skutella
 
       - institution: École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
-        location: 
         area: Mathematics
         studyType: Master
         start_date: 2015-09
