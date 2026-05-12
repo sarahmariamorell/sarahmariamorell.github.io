@@ -9,7 +9,9 @@ permalink: /impressum/
 Angaben gemäß § 5 TMG
 
 Sarah Maria Morell
+
 Boltenhagener Straße 22
+
 22147 Hamburg
 
 E-Mail: sarahmaria.(Nachname)(at)gmail(dot)com
@@ -19,7 +21,9 @@ E-Mail: sarahmaria.(Nachname)(at)gmail(dot)com
 #### Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 
 Sarah Maria Morell
+
 Boltenhagener Straße 22
+
 22147 Hamburg
 
 ---
@@ -39,7 +43,9 @@ Diese Website enthält Links zu externen Websites Dritter, auf deren Inhalte kei
 #### Verantwortliche Person
 
 Sarah Maria Morell
+
 Boltenhagener Straße 22
+
 22147 Hamburg
 
 E-Mail: sarahmaria.(Nachname)(at)gmail(dot)com
