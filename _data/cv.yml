@@ -11,15 +11,6 @@ cv:
 
   sections:
 
-    Research Interests:
-      - name: Research Interests
-        keywords:
-          - Combinatorial Optimization
-          - Discrete Optimization
-          - Approximation Algorithms
-          - Network Flows
-          - Scheduling
-
     Academic Positions:
       - institution: University of Bremen, Germany
         position: Researcher (with tenure track to Senior Researcher)
