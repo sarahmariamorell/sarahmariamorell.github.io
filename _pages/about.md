@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.uni-bremen.de/en/cslog/team/dr-sarah-morell'>(Senior) Researcher</a> at University of Bremen, Germany.
+subtitle: <a href='https://www.uni-bremen.de/en/cslog/team/dr-sarah-morell'>(Senior) Researcher</a> at the University of Bremen, Germany.
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
 
 I am currently a Researcher (with tenure track to Senior Researcher) at the University of Bremen in Germany. Prior to this, I was a Postdoc at the University of Bremen from April to September 2025, hosted by [Prof. Dr. Nicole Megow](https://www.uni-bremen.de/en/cslog/nmegow).
 
-I received my PhD in the Mathematics department at Technische Universität Berlin under the supervision of [Prof. Dr. Martin Skutella](https://www3.math.tu-berlin.de/coga/team/skutella/) in April 2025. I also hold a Bachelor's and Master's degree in Mathematics, both from EPFL in Switzerland. My master thesis about algorithms for diversity maximization was advised by [Prof. Dr. Friedrich Eisenbrand](https://people.epfl.ch/friedrich.eisenbrand). 
+I received my PhD in the Mathematics department at the Technische Universität Berlin under the supervision of [Prof. Dr. Martin Skutella](https://www3.math.tu-berlin.de/coga/team/skutella/) in April 2025. I also hold a Bachelor's and Master's degree in Mathematics, both from EPFL in Switzerland. My master thesis about algorithms for diversity maximization was advised by [Prof. Dr. Friedrich Eisenbrand](https://people.epfl.ch/friedrich.eisenbrand). 
 
 My research interest lies in Combinatorial Optimization. To date, I have mainly worked on network flow algorithms in various contexts. 
 
