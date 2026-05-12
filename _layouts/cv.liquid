@@ -153,7 +153,7 @@ layout: default
             <div>
               {% if section_title == 'Education' %}
                 {% assign entries = section_entries %}
-                {% include cv/education.liquid %}
+                {% include cv/education.liquid entries=entries %}
               {% elsif section_title == 'Awards' or section_title == 'Honors and Awards' %}
                 {% assign entries = section_entries %}
                 {% include cv/awards.liquid %}
