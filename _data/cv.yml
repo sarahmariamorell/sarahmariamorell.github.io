@@ -12,6 +12,7 @@ cv:
   sections:
 
     Research Interests:
+      - name: Research Interests
         keywords:
           - Combinatorial Optimization
           - Discrete Optimization
