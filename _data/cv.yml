@@ -11,44 +11,49 @@ cv:
 
   sections:
 
-    Academic Positions:
-      - institution: University of Bremen, Germany
+    Positions:
+      - institution: University of Bremen
+        location: Germany
         position: Researcher (with tenure track to Senior Researcher)
         start_date: 2025-10
         end_date: present
 
-      - institution: University of Bremen, Germany
+      - institution: University of Bremen
+        location: Germany
         position: Postdoctoral Researcher
         start_date: 2025-04
         end_date: 2025-09
         supervisor: Prof. Dr. Nicole Megow
 
     Education:
-      - institution: Technische Universität Berlin, Germany
-        area: Mathematics
-        studyType: PhD
+      - institution: Technische Universität Berlin
+        location: Germany
+        area:
+        studyType: PhD 
         start_date: 2018-09
         end_date: 2025-03
         thesis: "Flow-based Problem Solving in Combinatorial Optimization"
         supervisor: Prof. Dr. Martin Skutella
 
-      - institution: École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
-        area: Mathematics
-        studyType: Master
+      - institution: École Polytechnique Fédérale de Lausanne (EPFL)
+        location: Switzerland
+        area:
+        studyType: Master of Science (Mathematics and TCS)
         start_date: 2015-09
         end_date: 2018-07
         minor: Computer Science
         thesis: "Algorithms for Diversity Maximization"
         supervisor: Prof. Dr. Friedrich Eisenbrand
 
-      - institution: École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
-        area: Mathematics
-        studyType: Bachelor
+      - institution: École Polytechnique Fédérale de Lausanne (EPFL)
+        location: Switzerland
+        area: 
+        studyType: Bachelor of Science (Mathematics)
         start_date: 2009-09
         end_date: 2014-02
 
       - institution: Gymnasium Eckhorst Bargteheide, Germany
-        location: 
+        location: Germany
         studyType: Abitur (Highschool Diploma)
         end_date: 2008-07
 
