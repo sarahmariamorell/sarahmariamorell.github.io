@@ -1,7 +1,7 @@
 cv:
   name: Sarah Maria Morell
-  label: Researcher
-  email: sarahmaria.morell@gmail.com
+  label: (Senior) Researcher
+  email: 
   location: Bremen, Germany
   image: ""
 
@@ -54,7 +54,7 @@ cv:
 
       - institution: Gymnasium Eckhorst
         location: Bargteheide, Germany
-        studyType: Abitur
+        studyType: Abitur (Highschool Diploma)
         end_date: 2008-07
 
     Publications:
@@ -87,7 +87,7 @@ cv:
           - M. Skutella
         publisher: Mathematical Programming
         releaseDate: 2022
-        summary: "195(1), 1–35. Extended abstract in IPCO 2020."
+        summary: Extended abstract in IPCO 2020
 
       - title: Minimum-cost Integer Circulations in Given Homology Classes
         authors:
