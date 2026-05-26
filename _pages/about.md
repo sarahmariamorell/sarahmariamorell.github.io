@@ -6,7 +6,7 @@ subtitle: <a href='https://www.uni-bremen.de/en/cslog/team/dr-sarah-morell'>(Sen
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
     
