@@ -21,6 +21,10 @@
           <tr>
             <th scope="row" style="width: 20%">
               {{ item.date | date: '%b %Y' }}
+
+              {% if item.end_date %}
+                – {{ item.end_date | date: '%b %Y' }}
+              {% endif %}
             </th>
 
             <td>
