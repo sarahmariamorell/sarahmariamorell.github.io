@@ -6,6 +6,6 @@ inline: true
 related_posts: false
 ---
  
-**Simons Institute for the Theory of Computing, Berkeley, USA.**
+**Simons Institute for the Theory of Computing, Berkeley, USA.**<br>
 
 Program *Bridging Continuous and Discrete Optimization*.
