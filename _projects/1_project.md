@@ -1,9 +1,11 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-end_date: 2015-11-05 15:59:00-0400
+date: 2017-08-01
+end_date: 2017-12-01
 inline: true
 related_posts: false
 ---
  
-Event announcement.
+**Simons Institute for the Theory of Computing, Berkeley, USA.**
+
+Program *Bridging Continuous and Discrete Optimization*.
