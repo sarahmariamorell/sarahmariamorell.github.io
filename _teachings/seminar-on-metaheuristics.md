@@ -12,4 +12,4 @@ course_id: 03-IBFW-MEHE
 
 ## Course Overview
 
-This seminar introduces fundamental concepts and methods of metaheuristics for solving complex optimization problems for which no exact algorithms are available.
+This seminar introduces fundamental concepts and methods of metaheuristics for solving complex optimization problems for which no exact algorithms are available. Interested students can find further details on [StudIP](https://elearning.uni-bremen.de/dispatch.php/course/details?sem_id=0eb1975ecbf5544821d9ec627ca41428&again=yes).
