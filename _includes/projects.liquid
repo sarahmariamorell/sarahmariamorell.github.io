@@ -1,6 +1,7 @@
 <div class="events">
-  {% if site.news != blank %}
-    {% assign events_size = site.news | size %}
+  {% if site.projects != blank %}
+    {% assign events_size = site.projects | size %}
+
     <div
       class="table-responsive"
       {% if include.limit and page.announcements.scrollable and events_size > 3 %}
@@ -8,7 +9,8 @@
       {% endif %}
     >
       <table class="table table-sm table-borderless">
-        {% assign events = site.news | reverse %}
+        {% assign events = site.projects | reverse %}
+
         {% if include.limit and page.announcements.limit %}
           {% assign events_limit = page.announcements.limit %}
         {% else %}
@@ -20,6 +22,7 @@
             <th scope="row" style="width: 20%">
               {{ item.date | date: '%b %Y' }}
             </th>
+
             <td>
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
@@ -34,6 +37,6 @@
       </table>
     </div>
   {% else %}
-    <p>Currently no events available.</p>
+    <p>No events so far...</p>
   {% endif %}
 </div>
