@@ -8,4 +8,4 @@ related_posts: false
  
 **École Polytechnique Fédérale de Lausanne, Switzerland.**<br>
 
-Talk *Single Source Unsplittable Flows*.
+Talk: *Single Source Unsplittable Flows*.

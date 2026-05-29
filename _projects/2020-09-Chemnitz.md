@@ -6,8 +6,8 @@ inline: true
 related_posts: false
 ---
  
-**Technical University Chemnitz, Germany. [online]**<br>
+**Technical University Chemnitz, Germany.**<br>
 
 DMV (German Mathematical Society) Annual Meeting.<br>
 
-Talk: *Single Source Unsplittable Flows*.
+Talk: *Single Source Unsplittable Flows* [online].
