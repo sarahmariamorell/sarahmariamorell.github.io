@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.uni-bremen.de/en/cslog/team/dr-sarah-morell'>(Senior) Researcher</a> at the University of Bremen, Germany.
+subtitle: <a href='https://www.uni-bremen.de/en/cslog/dr-sarah-morell'>(Senior) Researcher</a> at the University of Bremen, Germany.
 
 profile:
   align: right
