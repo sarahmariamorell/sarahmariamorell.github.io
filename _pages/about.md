@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Researcher (with tenure track to Senior Researcher) at the University of Bremen in Germany. Prior to this, I was a Postdoc at the University of Bremen from April to September 2025, hosted by [Prof. Dr. Nicole Megow](https://www.uni-bremen.de/en/cslog/nmegow).
+I am currently a [Researcher (with tenure track to Senior Researcher)](https://www.uni-bremen.de/fb3/forschung/informatik/arbeitsgruppen/weitere-selbststaendig-forschende-lehrende-mitarbeiterinnen/dr-sarah-morell) at the University of Bremen in Germany. Prior to this, I was a Postdoc at the University of Bremen from April to September 2025, hosted by [Prof. Dr. Nicole Megow](https://www.uni-bremen.de/en/cslog/nmegow).
 
 I received my PhD in the Mathematics department at the Technische Universität Berlin under the supervision of [Prof. Dr. Martin Skutella](https://www3.math.tu-berlin.de/coga/team/skutella/) in April 2025. I also hold a Bachelor's and Master's degree in Mathematics, both from EPFL in Switzerland. My master thesis about algorithms for diversity maximization was advised by [Prof. Dr. Friedrich Eisenbrand](https://people.epfl.ch/friedrich.eisenbrand). 
 
