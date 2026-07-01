@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Unsplittable Transshipments](https://arxiv.org/abs/2602.07230) got accepted at ICALP 2026. 
+Our paper [Unsplittable Transshipments](https://doi.org/10.4230/LIPIcs.ICALP.2026.74) got accepted at ICALP 2026. 
