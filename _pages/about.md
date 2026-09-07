@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Dr. Sarah Maria Morell
+title: about
 permalink: /
 subtitle: Mathematical Researcher in Combinatorial Optimization
 
