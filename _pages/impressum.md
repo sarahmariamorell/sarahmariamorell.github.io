@@ -6,7 +6,7 @@ permalink: /impressum/
 
 ## Impressum
 
-Angaben gemäß § 5 TMG
+Angaben gemäß § 5 DDG
 
 Sarah Maria Morell
 

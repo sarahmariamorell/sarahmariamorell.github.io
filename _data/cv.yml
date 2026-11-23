@@ -1,10 +1,10 @@
 cv:
   name: Dr. Sarah Maria Morell
   label: 
-  email: sarahmaria.(lastname)(at)gmail(dot)com
+  # email: (absichtlich auskommentiert: ungueltige Adresse bricht RenderCV ab)
   location: 
   image: ""
-  summary: Research in Combinatorial Optimization, mainly focusing on network flow problems derived from theoretical frameworks. Teaching responsibilities across divers formats. Regularly participating in and contributing to prestigious scientific programs and workshops.
+  summary: Research in Combinatorial Optimization, mainly focusing on network flow problems derived from theoretical frameworks. Teaching responsibilities across diverse formats. Regularly participating in and contributing to prestigious scientific programs and workshops.
   social_networks:
     - network: GitHub
       username: sarahmariamorell
